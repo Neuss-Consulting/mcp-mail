@@ -1,0 +1,20 @@
+mcp-mail – MCP server that can move and copy emails between different mailboxes
+Copyright 2025 Christian Neuß (@Neuss-Consulting)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Additional Attribution Requirement
+
+This project is open source and free to use (including commercially), 
+but we kindly ask you to respect the following if you redistribute or create a derivative:
+
+1. Keep this NOTICE file unchanged in any distribution.
+2. Retain a visible link to the original repository in your README or project description:
+   https://github.com/Neuss-Consulting/mcp-mail
+3. When presenting a fork or heavily based derivative, clearly indicate that it is based on this original project.
+
+Thank you – this keeps credit where it belongs and helps the whole community grow!
